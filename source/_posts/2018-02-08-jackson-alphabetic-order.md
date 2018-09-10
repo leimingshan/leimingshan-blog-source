@@ -1,8 +1,9 @@
 ---
 title: Jackson转换Json的严格字母序
-date: 2018-09-10 15:22:48
 tags: Java
 category: Java
+abbrlink: '4147250'
+date: 2018-02-08 15:22:48
 ---
 经常使用Jackson的同学肯定知道这个注解，
 @JsonPropertyOrder(alphabetic = true)
