@@ -2,7 +2,8 @@
 title: Hexo进阶设置
 abbrlink: a62b0c3d
 date: 2018-09-07 16:21:04
-tags:
+category: 网站
+tags: web
 ---
 # 静态代码压缩
 因为Blog中都是静态页面，基本都可以压缩优化，针对html，css，js，图片进行。

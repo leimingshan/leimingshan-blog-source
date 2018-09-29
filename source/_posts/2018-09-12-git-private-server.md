@@ -1,6 +1,7 @@
 ---
 title: 自建Git服务的几个选择
 tags: git
+category: 开发
 abbrlink: a9253739
 date: 2018-09-12 15:38:51
 ---
