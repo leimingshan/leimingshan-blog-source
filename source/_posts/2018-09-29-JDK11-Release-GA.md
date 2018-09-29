@@ -22,11 +22,21 @@ LTS版本每三年发布一次，根据后续的发布计划，下一个LTS版�
 
 <!--more-->
 # 下载地址
-https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
+https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html Oracle的商业许可
+http://jdk.java.net/11 OpenJDK, GPLv2 with the Classpath Exception
+
+# License
+在Oracle JDK11的下载页面，有明显的提示信息，指出了Oracle JDK11的[许可证](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html)情况，需要注意的是
+
+>> You may not:
+>>   use the Programs for any data processing or any commercial, production, or internal business purposes other than developing, testing, prototyping, and demonstrating your Application;
+
+不允许进行数据处理、商用或在产线使用。只可以用于开发、测试、原型、和应用的演示用途。Oracle JDK已经是商业版本，不是随意免费使用的，若要用在产线环境，需要取得相应授权。
+
+OpenJDK版本应该是基于GPLv2许可的，也是许多Linux发行版默认使用的，看来以后要拥抱OpenJDK了。
 
 # 技术文档
 https://docs.oracle.com/en/java/javase/11/
-
 
 # 版本支持情况
 Oracle Java SE的支持路线图，感兴趣的同学可以在https://www.oracle.com/technetwork/java/javase/eol-135779.html 查看。
