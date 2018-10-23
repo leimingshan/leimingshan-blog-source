@@ -16,7 +16,7 @@ nvm reinstall-packages v8.11.3  # 把在v8.11.3版本node下安装的全部globa
 nvm uninstall v8.11.3
 nvm install-latest-npm          # 顺便更新一下npm
 ```
-
+<!--more-->
 # 更新 global packages
 npm update -g
 
