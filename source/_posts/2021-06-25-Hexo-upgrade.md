@@ -1,5 +1,5 @@
 ---
-title: Hexo upgrade
+title: Hexo升级指南
 category: 开发
 tags:
   - JavaScript
