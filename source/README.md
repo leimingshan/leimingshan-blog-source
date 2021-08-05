@@ -1,7 +1,7 @@
 # Mingshan Lei's Blog
 ## Created By Hexo & Github pages
 
-我的技术分享，使用[Hexo](http://hexo.io)并部署在Github pages上的静态页面Blog。
+我的技术与生活分享博客，使用[Hexo](http://hexo.io)并部署在Github Pages上的静态页面Blog。
 
 欢迎通过以下地址访问。  
 [leimingshan.com](http://leimingshan.com)  
